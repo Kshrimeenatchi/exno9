@@ -6,7 +6,7 @@
 
 /**
  *
- * @author asus
+ * @author shrimeenatchi
  */
 public class ex {
     public static void main(String[] artg){
